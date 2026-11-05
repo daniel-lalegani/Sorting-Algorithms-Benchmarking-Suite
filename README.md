@@ -1,6 +1,9 @@
 # 📊 Sorting Algorithms Benchmarking Suite (Tkinter)
 
 > A first-principles desktop application built from scratch to visualize, execute, and benchmark the time complexity and mechanical efficiency of 9 distinct sorting algorithms.
+<p align="center">
+  <img src="Screenshot%20of%20application%20window.png" alt="Application Interface" width="100%">
+</p>
 
 *Note: This project was developed entirely from scratch in June 2022 (Pre-AI) without relying on external algorithmic libraries or boilerplate templates. Every sorting mechanism was manually implemented to study algorithmic data structures under the hood.*
 
